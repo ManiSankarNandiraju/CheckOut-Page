@@ -4,6 +4,8 @@ https://www.figma.com/design/66UBqVmngPZNCTFzMbnWla/Screening-Test?node-id=1-5&n
 live page:
 https://checkout-page-ui.netlify.app/
 
+https://www.loom.com/share/e99bd1af77c54e13b74f00224c3a50b5
+
 
 
 # Getting Started with Create React App
