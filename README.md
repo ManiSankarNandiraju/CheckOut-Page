@@ -1,3 +1,11 @@
+design for development:
+https://www.figma.com/design/66UBqVmngPZNCTFzMbnWla/Screening-Test?node-id=1-5&node-type=frame
+
+live page:
+https://checkout-page-ui.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
